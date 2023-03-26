@@ -22,8 +22,8 @@
     flex: 1;
     /*background-color: rgb(184, 178, 198);*/
     /* background-image: url(".././img/kelly-sikkema-YZ8usdlqw8A-unsplash")  ; */
-/* background-image: url(); */
-    background-image: url(/img/about.jpg);
+background-image: url("../about.jpg");
+    /* background-image: url(/img/about.jpg); */
     /* opacity: 0.9; */
     filter: blur(3px);
 -webkit-filter: blur(3px);
